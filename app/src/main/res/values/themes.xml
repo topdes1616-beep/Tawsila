@@ -2,7 +2,7 @@
     <style name="Theme.AndroidWebViewProject" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <item name="colorPrimary">#1976d2</item>
         <item name="colorPrimaryVariant">#1565c0</item>
-        <item name="colorOnPrimary">@white</item>
+        <item name="colorOnPrimary">@color/white</item> <!-- التعديل هنا -->
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
     </style>
 </resources>
