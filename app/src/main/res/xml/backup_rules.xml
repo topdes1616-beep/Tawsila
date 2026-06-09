@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- TODO: Customize parameters at android:fullBackupContent in AndroidManifest.xml -->
+    <include domain="sharedpref" path="." />
+    <exclude domain="file" path="." />
+</full-backup-content>
